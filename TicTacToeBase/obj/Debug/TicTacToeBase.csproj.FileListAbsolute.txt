@@ -1,0 +1,5 @@
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TicTacToeBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TicTacToeBase\bin\Debug\TicTacToeBase.dll
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TicTacToeBase\bin\Debug\TicTacToeBase.pdb
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TicTacToeBase\obj\Debug\TicTacToeBase.dll
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TicTacToeBase\obj\Debug\TicTacToeBase.pdb

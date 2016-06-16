@@ -1,0 +1,9 @@
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TesteConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TesteConsole\bin\Debug\TesteConsole.exe
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TesteConsole\bin\Debug\TesteConsole.pdb
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TesteConsole\bin\Debug\TicTacToeBase.dll
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TesteConsole\bin\Debug\TicTacToeBase.pdb
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TesteConsole\obj\x86\Debug\TesteConsole.exe
+C:\Users\laura.melo\documents\visual studio 2010\Projects\TicTacToeBase\TesteConsole\obj\x86\Debug\TesteConsole.pdb
+C:\Users\LauraCaroline\Documents\GitHub\TicTacToeBase\TesteConsole\obj\x86\Debug\TesteConsole.exe
+C:\Users\LauraCaroline\Documents\GitHub\TicTacToeBase\TesteConsole\obj\x86\Debug\TesteConsole.pdb
